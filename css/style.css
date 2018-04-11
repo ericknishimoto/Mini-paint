@@ -1,0 +1,21 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.container {
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.container__center {
+  margin: auto;
+}
+
+canvas {
+  border: 5px solid black;
+}
